@@ -1,0 +1,1 @@
+La intencion principal de este proyecto es realizar un ejercicio diario en diferentes lenguajes de programacion; siendo estos Python, PHP y JavaScript. Con el proposito de mantener el conocimiento que e adquirido en python y js y aprender el lenguaje PHP. 
